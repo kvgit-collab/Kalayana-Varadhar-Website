@@ -7,19 +7,43 @@ import Sidebar from '@/components/sidebar'
 export default function ImagesPage() {
   const images = [
     {
-      title: "Temple Front View",
-      description: "Main entrance of Sri Kalyana Varadhar Temple",
-      src: "/images/temple-front.jpg"
+        src: "/images/img-1.jpg"
     },
     {
-      title: "Festival Celebrations",
-      description: "Annual Brahmotsavam celebrations",
-      src: "/images/festival.jpg"
+        src: "/images/img-2.jpg"
     },
     {
-      title: "Temple Architecture",
-      description: "Ancient sculptures and architecture",
-      src: "/images/architecture.jpg"
+        src: "/images/img-3.jpg"
+    },
+    {
+        src: "/images/img-4.jpg"
+    },
+    {
+        src: "/images/img-5.jpg"
+    },
+    {
+        src: "/images/img-6.jpg"
+    },
+    {
+        src: "/images/img-7.jpg"
+    },
+    {
+        src: "/images/img-8.jpg"
+    },
+    {
+        src: "/images/img-9.jpg"
+    },
+    {
+        src: "/images/img-10.jpg"
+    },
+    {
+        src: "/images/img-11.jpg"
+    },
+    {
+        src: "/images/img-12.jpg"
+    },
+    {
+        src: "/images/img-13.jpg"
     }
   ]
 
